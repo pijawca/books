@@ -4,6 +4,6 @@ _Евгений **Моргунов**_ - PostgreSQL - Основы языка SQL
 
 Ссылка на сайт издателя: [нажми меня](https://bhv.ru/product/postgresql-osnovy-yazyka-sql/)
 
-<!-- Скачать материалы по прямой ссылке: [нажми меня](https://zip.bhv.ru/9785977567794.zip)
+Скачать материалы по прямой ссылке: [нажми меня](https://postgrespro.ru/education/demodb) (База данных - авиаперевозки)
 
-Альтернативная ссылка: [нажми меня](https://drive.google.com/file/d/1NRQAsHrWYzZ5akhPApyozofM-XKtkj38/view?usp=sharing) -->
+Альтернативная ссылка: [нажми меня](https://drive.google.com/drive/folders/1NtiSLu_Dtl1SMGtXawtJAnjmfguDmmmi?usp=sharing)
