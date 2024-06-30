@@ -11,7 +11,7 @@ def search(lst, item):
     
     while low <= high:
         attempts += 1
-        mid = (low + high) // 2  # Используем целочисленное деление
+        mid = (low + high) // 2
         guess = lst[mid]
         
         print(f'Попытка {attempts} : индекс {mid} : значение {guess}')
@@ -42,7 +42,7 @@ def search(lst, item):
     
     while low <= high:
         attempts += 1
-        mid = (low + high) // 2  # Используем целочисленное деление
+        mid = (low + high) // 2
         guess = lst[mid]
         
         print(f'Попытка {attempts} : индекс {mid} : значение {guess}')
